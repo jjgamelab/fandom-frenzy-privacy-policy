@@ -1,4 +1,5 @@
-Privacy Policy for Fandom Frenzy
+# Fandom Frenzy Privacy Policy
+
 
 Effective Date: [19/2/2026]
 
