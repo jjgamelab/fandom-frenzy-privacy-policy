@@ -87,13 +87,21 @@ If you believe that a child has provided personal information, please contact us
 
 Fandom Frenzy is a fan-made app created for entertainment purposes. All trademarks, names, and references to music groups, dramas, actors, or entertainment properties belong to their respective owners.
 
-No copyright infringement is intended.
+All content is used under fair use principles where applicable, and no copyright infringement is intended.
 
-8. Changes to This Policy
+8. AI-Generated Content
+
+Some visual assets used in Fandom Frenzy, including but not limited to images, icons, and certain store-related content, may be generated using artificial intelligence (AI) tools.
+
+These assets are created for entertainment and aesthetic purposes only and are not intended to represent real individuals, official media, or copyrighted promotional material.
+
+While we strive to ensure originality and appropriateness, AI-generated content may occasionally resemble existing works. If you believe any content infringes on your rights, please contact us and we will take appropriate action.
+
+9. Changes to This Policy
 
 This Privacy Policy may be updated from time to time. Changes will be reflected by updating the "Effective Date" above.
 
-9. Contact
+10. Contact
 
 If you have questions regarding this Privacy Policy, you may contact:
 
